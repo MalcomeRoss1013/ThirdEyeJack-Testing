@@ -1,0 +1,62 @@
+.InputBoxSize{
+    Width: 30%;
+    Height: 600px;
+    Border: solid;
+    Border-color: black;
+
+    margin-left: 35%;
+    margin-right: 35%;
+
+    margin-top: 50px;
+    background-color: rgb(0, 18, 51);
+    border-radius: 25px;
+
+    
+}
+
+.EmPass
+{
+    Width: 70%;
+    Height: 150px;
+    Border: solid;
+    Border-color: rgb(0, 18, 51);
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-top: 50px;
+    color: black;
+
+}
+.remMe
+{
+    Width: 70%;
+    Height: 50px;
+    Border: solid;
+    Border-color: rgb(0, 18, 51);
+    color: rgb(236, 85, 123);
+    margin-right: 15%;
+    margin-left: 15%;
+
+}
+
+.textwhite{
+    color: white;
+}
+
+.SubmitButton{
+    Width: 70%;
+    Height: 50px;
+    margin-right: 15%;
+    margin-left: 15%;
+    border: solid;
+    border-color: rgb(0, 18, 51);
+}
+
+.Forgpass{
+    Width: 70%;
+    Height: 50px;
+    margin-right: 15%;
+    margin-left: 15%;
+    border: solid;
+    border-color:rgb(0, 18, 51);
+    color: black;
+}

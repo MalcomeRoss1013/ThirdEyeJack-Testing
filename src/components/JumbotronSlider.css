@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .jumbotron {
+    position: relative;
+    width: 100%;
+    height: 100%; /* Adjust the height to your preference */
+    overflow: hidden;
+  }
+  
+  .slide-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .slide-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    z-index: 0; /* Ensure the background is behind the text */
+  }
+  
+  .slide-0 {
+    background-image: url('../images/1557992187_1-org.jpg'); /* Adjust the path if necessary */
+  }
+  
+  .slide-1 {
+    background-image: url('../images/4936e0f28f79c8a2aa95582741091356d0ed61d8.jpeg');
+  }
+  
+  .slide-2 {
+    background-image: url('../images/officepic1.png');
+  }
+  
+  
+  .slide-text {
+    position: absolute;
+    top: 20px; /* Adjust this to control the text position */
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    background: rgba(0, 0, 0, 0.6); /* Dark overlay for better readability */
+    color: white;
+    padding: 20px;
+    width: 90%; /* Ensure text doesn't stretch too wide */
+    z-index: 1; /* Make sure the text is on top of the background */
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 2.5em; /* Adjust the size of the title */
+  }
+  
+  p {
+    font-size: 1.2em;
+  }
+  
+  .controls {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    z-index: 2;
+    transform: translateY(-50%);
+  }
+  
+  button {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    font-size: 24px;
+    cursor: pointer;
+    opacity: 0.7;
+    transition: opacity 0.3s;
+  }
+  
+  button:hover {
+    opacity: 1;
+  }
+  

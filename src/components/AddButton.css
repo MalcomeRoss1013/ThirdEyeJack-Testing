@@ -1,0 +1,22 @@
+:root {
+    --primary: rgb(0, 18, 51);;
+}
+
+.AddBtn {
+
+  
+    width: 20%;
+    height: 50%;
+    border: 4px;
+    font-weight: bold;
+    color: White;
+    cursor: pointer;
+    margin-top: 5%;
+    background-color: rgb(0, 18, 51);
+
+}
+
+.AddBtn:hover {
+    transform: translateY(-2px);
+    background-color: rgba(0, 18, 51, 0.548);
+}

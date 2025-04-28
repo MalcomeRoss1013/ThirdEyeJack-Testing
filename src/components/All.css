@@ -1,0 +1,174 @@
+.Layer1Back{
+    background-color: white;
+}
+
+
+.buttons{
+
+    display: inline-block; 
+    margin-right: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+.PageContainer{
+    width: 100%;
+    Height: 1300px;
+    margin-top: 70px;
+}
+
+.Column1{
+    width: 0%;
+    Height: 1200px;
+    float: left;
+
+}
+
+.Column2{
+    width: 50%;
+    Height: 1200px;
+    float: left;
+
+}
+
+.C2Box{
+    Height: 100%;
+    Width: 85%;
+    margin-left: 10%;
+    margin-right: 5%;
+
+}
+
+.Column3{
+    width: 50%;
+    Height: 1200px;
+    float: right;
+
+
+}
+
+.C3Box{
+    Height: 100%;
+    Width: 85%;
+    margin-right: 10%;
+    margin-left: 5%;
+
+}
+
+.TopB{
+    Width: 100%;
+    Height: 50%;
+
+}
+
+
+.BotB{
+    Width: 100%;
+    Height: 50%;
+
+}
+
+
+.Product1{
+    width: 48%;
+    height: 100%;
+    float: left;
+    margin-right: 2%;
+   
+    
+    /*border: 2px solid;
+    border-color: rgb(59, 130, 211); */
+
+}
+
+.Product2{
+    width: 48%;
+    height: 100%;
+    float: right;
+    margin-left: 2%;
+    
+    /*
+    border: 2px solid;
+    border-color: rgb(186, 194, 76);*/
+
+}
+
+.ImagePlace{
+    width: 90%;
+    height: 43%;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 10%;
+    border-radius: 25px;
+
+    
+    background-image: url(../images/adpstemp.PNG); 
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-y: 40%;
+    background-position-x: 50%;
+    background-color: rgb(152,94,109);
+}
+
+.TextHold{
+    width: 90%;
+    height: 30%;
+   
+    margin-top: 12%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 2px solid rgb(83, 83, 156);
+    color: black;
+    text-align: left;
+    
+}
+
+.text{
+    width: 90%;
+    height: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: left;
+}
+
+.ButtonP{
+    width: 100%;
+    height: 10%;
+    
+    margin-top: 0%;
+
+}
+
+
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float-child {
+    width: 14%;
+    float: left;
+    border: 1px solid red;
+} 
+.float-child1 {
+    width: 14%;
+    float: left;
+    border: 1px solid red;
+} 
+
+
+.ButtonP1{
+   
+ background-color: none;
+  
+
+}
+
+/* look into min width and min height!*/
