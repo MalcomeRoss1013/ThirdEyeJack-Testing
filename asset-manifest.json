@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ThirdEyeJack-Testing/static/css/main.2820e640.css",
-    "main.js": "/ThirdEyeJack-Testing/static/js/main.b7aafa64.js",
+    "main.js": "/ThirdEyeJack-Testing/static/js/main.59c567ca.js",
     "static/js/453.05b441fa.chunk.js": "/ThirdEyeJack-Testing/static/js/453.05b441fa.chunk.js",
     "static/media/d0ed61d8.jpeg": "/ThirdEyeJack-Testing/static/media/4936e0f28f79c8a2aa95582741091356d0ed61d8.8b380bfbc5c75f57c822.jpeg",
     "static/media/officepic1.png": "/ThirdEyeJack-Testing/static/media/officepic1.a1058cdc9d960034c9d3.png",
@@ -11,11 +11,11 @@
     "static/media/ADOBELOGO2.PNG": "/ThirdEyeJack-Testing/static/media/ADOBELOGO2.af58631f354767917071.PNG",
     "index.html": "/ThirdEyeJack-Testing/index.html",
     "main.2820e640.css.map": "/ThirdEyeJack-Testing/static/css/main.2820e640.css.map",
-    "main.b7aafa64.js.map": "/ThirdEyeJack-Testing/static/js/main.b7aafa64.js.map",
+    "main.59c567ca.js.map": "/ThirdEyeJack-Testing/static/js/main.59c567ca.js.map",
     "453.05b441fa.chunk.js.map": "/ThirdEyeJack-Testing/static/js/453.05b441fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2820e640.css",
-    "static/js/main.b7aafa64.js"
+    "static/js/main.59c567ca.js"
   ]
 }
